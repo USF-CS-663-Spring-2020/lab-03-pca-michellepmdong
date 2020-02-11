@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Michelle Dong  
+**USF email address**: mdong8@dons.usfca.edu 
